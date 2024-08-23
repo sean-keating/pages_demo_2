@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+.main {
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    padding: 5%;
+    position: relative;
+}
+h1 {
+    position: fixed;
+    top: -50px;
+    left: 250px;
+    font-size: 100px;
+    font-weight: bold;
+    color: aliceblue;
+}
+img {
+    width: 100%;
+}
